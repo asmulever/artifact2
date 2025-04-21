@@ -1,0 +1,41 @@
+# Compilados de clase
+*.class
+
+# Logs
+*.log
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Eclipse / IntelliJ / NetBeans
+*.iml
+.idea/
+*.ipr
+*.iws
+*.bak
+*.swp
+target/
+nbproject/private/
+
+# Maven
+target/
+!.mvn/wrapper/maven-wrapper.jar
+.mvn/timing.properties
+
+# Archivos temporales
+*.tmp
+*.temp
+*.out
+
+# VSCode
+.vscode/
+
+# Archivos de configuración local
+.env
+.settings/
+
+# JARs / WARs / EARs generados
+*.jar
+*.war
+*.ear
