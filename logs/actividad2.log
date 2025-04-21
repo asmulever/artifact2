@@ -1,0 +1,5 @@
+2025-04-21 07:43:55,211 [main] INFO  ar.edu.udeci.pv.App - Inicio de la aplicación
+2025-04-21 07:43:55,211 [main] DEBUG ar.edu.udeci.pv.App - Este es un mensaje de depuración
+2025-04-21 07:43:55,211 [main] WARN  ar.edu.udeci.pv.App - Este es un mensaje de advertencia
+2025-04-21 07:43:55,211 [main] ERROR ar.edu.udeci.pv.App - Este es un mensaje de error
+2025-04-21 07:43:55,211 [main] FATAL ar.edu.udeci.pv.App - Este es un mensaje fatal
