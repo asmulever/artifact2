@@ -3,3 +3,17 @@
 2025-04-21 07:43:55,211 [main] WARN  ar.edu.udeci.pv.App - Este es un mensaje de advertencia
 2025-04-21 07:43:55,211 [main] ERROR ar.edu.udeci.pv.App - Este es un mensaje de error
 2025-04-21 07:43:55,211 [main] FATAL ar.edu.udeci.pv.App - Este es un mensaje fatal
+2025-04-21 07:51:20,711 [main] INFO  ar.edu.udeci.pv.App - Inicio de la aplicación
+2025-04-21 07:51:20,711 [main] DEBUG ar.edu.udeci.pv.App - Este es un mensaje de depuración
+2025-04-21 07:51:20,711 [main] WARN  ar.edu.udeci.pv.App - Este es un mensaje de advertencia
+2025-04-21 07:51:20,711 [main] ERROR ar.edu.udeci.pv.App - Este es un mensaje de error
+2025-04-21 07:51:20,711 [main] FATAL ar.edu.udeci.pv.App - Este es un mensaje fatal
+2025-04-21 07:55:31,830 [main] INFO  ar.edu.udeci.pv.App - Inicio de la aplicación
+2025-04-21 07:55:31,831 [main] DEBUG ar.edu.udeci.pv.App - Nombre recibido: usuario
+2025-04-21 07:56:51,290 [main] ERROR ar.edu.udeci.pv.App - Error al analizar argumentos: Unrecognized option: --name Ariel
+2025-04-21 07:57:35,165 [main] INFO  ar.edu.udeci.pv.App - Inicio de la aplicación
+2025-04-21 07:57:35,165 [main] DEBUG ar.edu.udeci.pv.App - Nombre recibido: Ariel
+2025-04-21 07:58:11,993 [main] INFO  ar.edu.udeci.pv.App - Inicio de la aplicación
+2025-04-21 07:58:11,993 [main] DEBUG ar.edu.udeci.pv.App - Nombre recibido: Ariel
+2025-04-21 08:01:31,936 [main] INFO  ar.edu.udeci.pv.App - Inicio de la aplicación
+2025-04-21 08:01:31,937 [main] DEBUG ar.edu.udeci.pv.App - Nombre recibido: usuario
